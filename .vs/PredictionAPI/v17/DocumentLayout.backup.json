@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kimer\\OneDrive - USN\\Kim\\Master\\Semester 9\\Project\\PredictionAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65424C37-17BC-4C04-AC6B-73D0B6766EE7}|PredictionAPI.csproj|c:\\users\\kimer\\onedrive - usn\\kim\\master\\semester 9\\project\\predictionapi\\predictionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65424C37-17BC-4C04-AC6B-73D0B6766EE7}|PredictionAPI.csproj|solutionrelative:predictionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65424C37-17BC-4C04-AC6B-73D0B6766EE7}|PredictionAPI.csproj|c:\\users\\kimer\\onedrive - usn\\kim\\master\\semester 9\\project\\predictionapi\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65424C37-17BC-4C04-AC6B-73D0B6766EE7}|PredictionAPI.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65424C37-17BC-4C04-AC6B-73D0B6766EE7}|PredictionAPI.csproj|c:\\users\\kimer\\onedrive - usn\\kim\\master\\semester 9\\project\\predictionapi\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65424C37-17BC-4C04-AC6B-73D0B6766EE7}|PredictionAPI.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65424C37-17BC-4C04-AC6B-73D0B6766EE7}|PredictionAPI.csproj|c:\\users\\kimer\\onedrive - usn\\kim\\master\\semester 9\\project\\predictionapi\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65424C37-17BC-4C04-AC6B-73D0B6766EE7}|PredictionAPI.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65424C37-17BC-4C04-AC6B-73D0B6766EE7}|PredictionAPI.csproj|c:\\users\\kimer\\onedrive - usn\\kim\\master\\semester 9\\project\\predictionapi\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65424C37-17BC-4C04-AC6B-73D0B6766EE7}|PredictionAPI.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65424C37-17BC-4C04-AC6B-73D0B6766EE7}|PredictionAPI.csproj|c:\\users\\kimer\\onedrive - usn\\kim\\master\\semester 9\\project\\predictionapi\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65424C37-17BC-4C04-AC6B-73D0B6766EE7}|PredictionAPI.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65424C37-17BC-4C04-AC6B-73D0B6766EE7}|PredictionAPI.csproj|c:\\users\\kimer\\onedrive - usn\\kim\\master\\semester 9\\project\\predictionapi\\predictionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65424C37-17BC-4C04-AC6B-73D0B6766EE7}|PredictionAPI.csproj|solutionrelative:predictionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65424C37-17BC-4C04-AC6B-73D0B6766EE7}|PredictionAPI.csproj|c:\\users\\kimer\\onedrive - usn\\kim\\master\\semester 9\\project\\predictionapi\\predictionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65424C37-17BC-4C04-AC6B-73D0B6766EE7}|PredictionAPI.csproj|solutionrelative:predictionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kimer\\OneDrive - USN\\Kim\\Master\\Semester 9\\Project\\PredictionAPI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65424C37-17BC-4C04-AC6B-73D0B6766EE7}|PredictionAPI.csproj|c:\\users\\kimer\\onedrive - usn\\kim\\master\\semester 9\\project\\predictionapi\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65424C37-17BC-4C04-AC6B-73D0B6766EE7}|PredictionAPI.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65424C37-17BC-4C04-AC6B-73D0B6766EE7}|PredictionAPI.csproj|c:\\users\\kimer\\onedrive - usn\\kim\\master\\semester 9\\project\\predictionapi\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65424C37-17BC-4C04-AC6B-73D0B6766EE7}|PredictionAPI.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\kimer\\OneDrive - USN\\Kim\\Master\\Semester 9\\Project\\PredictionAPI\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\kimer\\OneDrive - USN\\Kim\\Master\\Semester 9\\Project\\PredictionAPI\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:52:18.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PredictionPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kimer\\OneDrive - USN\\Kim\\Master\\Semester 9\\Project\\PredictionAPI\\PredictionPage.xaml",
+              "RelativeDocumentMoniker": "PredictionPage.xaml",
+              "ToolTip": "C:\\Users\\kimer\\OneDrive - USN\\Kim\\Master\\Semester 9\\Project\\PredictionAPI\\PredictionPage.xaml",
+              "RelativeToolTip": "PredictionPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T02:55:50.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kimer\\OneDrive - USN\\Kim\\Master\\Semester 9\\Project\\PredictionAPI\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\kimer\\OneDrive - USN\\Kim\\Master\\Semester 9\\Project\\PredictionAPI\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:52:25.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PredictionService.cs",
+              "DocumentMoniker": "C:\\Users\\kimer\\OneDrive - USN\\Kim\\Master\\Semester 9\\Project\\PredictionAPI\\PredictionService.cs",
+              "RelativeDocumentMoniker": "PredictionService.cs",
+              "ToolTip": "C:\\Users\\kimer\\OneDrive - USN\\Kim\\Master\\Semester 9\\Project\\PredictionAPI\\PredictionService.cs",
+              "RelativeToolTip": "PredictionService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwGIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T03:05:15.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kimer\\OneDrive - USN\\Kim\\Master\\Semester 9\\Project\\PredictionAPI\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\kimer\\OneDrive - USN\\Kim\\Master\\Semester 9\\Project\\PredictionAPI\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T02:52:22.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kimer\\OneDrive - USN\\Kim\\Master\\Semester 9\\Project\\PredictionAPI\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\kimer\\OneDrive - USN\\Kim\\Master\\Semester 9\\Project\\PredictionAPI\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:56:16.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kimer\\OneDrive - USN\\Kim\\Master\\Semester 9\\Project\\PredictionAPI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\kimer\\OneDrive - USN\\Kim\\Master\\Semester 9\\Project\\PredictionAPI\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:56:22.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PredictionPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kimer\\OneDrive - USN\\Kim\\Master\\Semester 9\\Project\\PredictionAPI\\PredictionPage.xaml.cs",
+              "RelativeDocumentMoniker": "PredictionPage.xaml.cs",
+              "ToolTip": "C:\\Users\\kimer\\OneDrive - USN\\Kim\\Master\\Semester 9\\Project\\PredictionAPI\\PredictionPage.xaml.cs",
+              "RelativeToolTip": "PredictionPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T03:01:17.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\kimer\\OneDrive - USN\\Kim\\Master\\Semester 9\\Project\\PredictionAPI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\kimer\\OneDrive - USN\\Kim\\Master\\Semester 9\\Project\\PredictionAPI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwEoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:15:12.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\kimer\\OneDrive - USN\\Kim\\Master\\Semester 9\\Project\\PredictionAPI\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\kimer\\OneDrive - USN\\Kim\\Master\\Semester 9\\Project\\PredictionAPI\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T02:56:07.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\kimer\\OneDrive - USN\\Kim\\Master\\Semester 9\\Project\\PredictionAPI\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\kimer\\OneDrive - USN\\Kim\\Master\\Semester 9\\Project\\PredictionAPI\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T02:56:11.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
